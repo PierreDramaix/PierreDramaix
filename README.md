@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PierreDramaix
 - 👀 I’m interested in coding, dota, IT in general
-- 🌱 I’m currently following courses to get a licence in IT, specialising myself to be backend java developper
+- 🌱 I’m currently following courses to get a licence in IT, specialising myself to be backend developper
 - 📫 How to reach me: please dont, I will reach you out if I feel the need
 
 <!---
